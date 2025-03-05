@@ -1,1 +1,8 @@
-
+fastapi
+uvicorn
+requests
+python-dotenv
+pydantic
+gunicorn
+httpx
+openai
