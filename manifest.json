@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "S.W.O.R.D",
+  "version": "0.0.1",
+  "description": "LLM-based spear phishing and whaling detector",
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "permissions": [
+    "sidePanel"
+  ],
+  "host_permissions": [
+    "http://127.0.0.1:8000/*"
+  ]
+} 
